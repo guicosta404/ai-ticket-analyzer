@@ -1,5 +1,5 @@
 from pathlib import Path
-import pandas as pd
+import pandas as pd # type: ignore
 
 
 DATA_PATH = Path("data/tickets.csv")
