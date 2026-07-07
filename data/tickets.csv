@@ -1,0 +1,51 @@
+id,cliente,categoria,descricao,prioridade,status,data_abertura
+1,Tech Solutions Ltda,Financeiro,Erro ao gerar boleto,Alta,Aberto,2025-01-10
+2,Alfa Logística,Login,Usuário não consegue realizar login,Média,Resolvido,2025-02-15
+3,Tech Solutions Ltda, API ,Endpoint retornando erro 500,alta,Em andamento,2025-03-08
+4,ABC Comércio,Cadastro,Cadastro duplicado,Baixa,Aberto,2025-01-25
+5,XP Sistemas,Integração,Falha na integração com ERP,Alta,Em andamento,2024-12-20
+6,Nova Energia,financeiro,Pagamento não conciliado,Média,Resolvido,2024-11-12
+7,Global Tech,LOGIN,Senha inválida,Alta,Aberto,2025-04-01
+8,Alfa Logística,API,Timeout na API,Baixa,Resolvido,2025-02-22
+9,Tech Solutions Ltda,Cadastro,,Média,Aberto,2025-03-12
+10,Prime Solutions,Integração,Erro ao importar planilha,Alta,Em andamento,2024-10-18
+11,Global Tech,Financeiro,Falha na emissão de nota fiscal,Alta,Aberto,2025-01-18
+12,ABC Comércio, Login,Usuário bloqueado,Média,Resolvido,2025-04-12
+13,XP Sistemas,API,Erro 401 ao autenticar,Alta,Em andamento,2025-05-01
+14,Nova Energia,Cadastro,Dados inconsistentes no cadastro,Baixa,Aberto,2024-09-15
+15,Prime Solutions,Integração,Sincronização incompleta,Média,Resolvido,2025-01-30
+16,Global Tech,FINANCEIRO,Fatura duplicada,ALTA,Em andamento,2025-03-05
+17,Alfa Logística,API,Erro 404 em endpoint,Baixa,Aberto,2024-08-11
+18,Tech Solutions Ltda,Cadastro,Campo obrigatório ausente,Média,Resolvido,2025-04-20
+19,ABC Comércio,Integração,Webhook não recebido,Alta,Aberto,2025-05-08
+20,Nova Energia,Login,Falha na autenticação,Baixa,Resolvido,2024-07-30
+21,Prime Solutions,Financeiro,Erro no cálculo de impostos,Média,Em andamento,2025-02-11
+22,Global Tech,API,,Alta,Aberto,2025-06-01
+23,XP Sistemas,Cadastro,Erro ao atualizar cadastro,Baixa,Resolvido,2025-01-08
+24,Alfa Logística,Integração,ERP indisponível,Média,Em andamento,2024-11-28
+25,Tech Solutions Ltda, Financeiro ,Duplicidade de pagamento,Alta,Aberto,2025-03-14
+26,Nova Energia,Login,Sessão expirada,baixa,Resolvido,2025-02-07
+27,Prime Solutions,API,Limite de requisições excedido,Média,Aberto,2025-06-15
+28,Global Tech,Cadastro,CPF inválido,Alta,Em andamento,2024-10-02
+29,ABC Comércio,Integração,Falha na sincronização de pedidos,Baixa,Resolvido,2025-01-16
+30,XP Sistemas,Financeiro,Erro ao exportar relatório,Média,Aberto,2025-04-09
+31,Alfa Logística,API,Resposta lenta da API,Alta,Em andamento,2024-09-19
+32,Tech Solutions Ltda,Cadastro,Usuário sem permissão,Média,Resolvido,2025-05-05
+33,Prime Solutions,integração,Timeout no serviço externo,Alta,Aberto,2025-02-25
+34,Global Tech,Login,Conta bloqueada por tentativas,Baixa,Resolvido,2025-03-18
+35,Nova Energia,Financeiro,Boleto vencido incorreto,Média,Em andamento,2024-08-05
+36,ABC Comércio,API,Erro interno do servidor,Alta,Aberto,2025-04-03
+37,XP Sistemas,Cadastro,,Baixa,Resolvido,2025-05-12
+38,Alfa Logística,Integração,Erro ao consumir webhook,Média,Aberto,2025-06-18
+39,Tech Solutions Ltda,Financeiro,Saldo divergente,Alta,Em andamento,2024-12-05
+40,Prime Solutions,Login,Token expirado,Baixa,Resolvido,2025-01-03
+41,Global Tech,API,Endpoint indisponível,Média,Aberto,2025-03-28
+42,Nova Energia,Cadastro,E-mail duplicado,Alta,Em andamento,2024-11-07
+43,ABC Comércio,Integração,Erro na fila de processamento,Baixa,Resolvido,2025-02-18
+44,XP Sistemas,Financeiro,Cobrança em duplicidade,Média,Aberto,2025-04-26
+45,Alfa Logística,Login,Usuário inexistente,Alta,Resolvido,2024-10-23
+46,Tech Solutions Ltda,API,Erro 503 no gateway,Média,Em andamento,2025-05-22
+47,Prime Solutions,Cadastro,Registro incompleto,Baixa,Aberto,2025-06-09
+48,Global Tech,Integração,Falha na integração bancária,Alta,Resolvido,2025-01-28
+49,Nova Energia,Financeiro,,Média,Em andamento,2025-02-13
+50,ABC Comércio,API,Erro ao validar token,Alta,Aberto,2025-06-20
